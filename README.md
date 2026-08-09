@@ -18,7 +18,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 
@@ -74,7 +74,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://my-portfolio-jimrie.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white" alt="Portfolio" /></a>
