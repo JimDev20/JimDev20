@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:38bdae&height=200&section=header" width="100%" alt="header" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Jimrie Parado</h1>
+<h1 align="center">Hi, I'm Jimrie Parado</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -81,11 +81,10 @@
 ## 📫 Connect with Me
 
 - 🌐 **Portfolio:** [https://my-portfolio-jimrie.vercel.app](https://my-portfolio-jimrie.vercel.app)
-- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
 
 ---
 
-<p align="center">Made with ❤️ by Jimrie Parado</p>
+<p align="center">Made by Jimrie Parado</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:38bdae&height=120&section=footer" width="100%" alt="footer" />
