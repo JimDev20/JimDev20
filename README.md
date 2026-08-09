@@ -25,25 +25,42 @@
 ### Frontend
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css&perline=8" alt="Frontend" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwindcss,vite&perline=5" alt="Frontend" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/TanStack%20Start-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack Start" />
+  <img src="https://img.shields.io/badge/TanStack%20Router-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack Router" />
+  <img src="https://img.shields.io/badge/TanStack%20Query-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack Query" />
 </p>
 
 ### Backend
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs&perline=8" alt="Backend" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgresql&perline=2" alt="Backend" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Drizzle%20ORM-1a1b27?style=for-the-badge&logo=drizzle&labelColor=1a1b27&color=70a5fd" alt="Drizzle ORM" />
+  <img src="https://img.shields.io/badge/REST%20API-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="REST API" />
 </p>
 
-### Cloud & Tools
+### DevOps & Cloud
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,git&perline=8" alt="Cloud & Tools" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker&perline=4" alt="DevOps & Cloud" />
+</p>
+
+### AI & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-1a1b27?style=for-the-badge&logo=openai&labelColor=1a1b27&color=70a5fd" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Claude%20Code-1a1b27?style=for-the-badge&logo=claude&labelColor=1a1b27&color=70a5fd" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Cursor-1a1b27?style=for-the-badge&logo=cursor&labelColor=1a1b27&color=70a5fd" alt="Cursor" />
+</p>
+
+### Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Developer Tools" />
 </p>
 
 ---
