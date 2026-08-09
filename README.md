@@ -46,7 +46,7 @@
 ### DevOps & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker&perline=4" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker,aws&perline=5" alt="DevOps & Cloud" />
 </p>
 
 ### AI & Machine Learning
