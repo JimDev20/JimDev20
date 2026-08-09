@@ -22,9 +22,27 @@
 
 ## 🛠️ Tech Stack
 
+### Frontend
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,aws,git&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css&perline=8" alt="Frontend" />
+  </a>
+</p>
+
+### Backend
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs&perline=8" alt="Backend" />
+  </a>
+</p>
+
+### Cloud & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,git&perline=8" alt="Cloud & Tools" />
   </a>
 </p>
 
@@ -33,8 +51,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimDev20&layout=compact&theme=tokyonight" alt="Top languages" width="40%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimDev20&layout=compact&theme=tokyonight" alt="Top languages" width="40%" />
 </p>
 
 <p align="center">
@@ -46,7 +64,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JimDev20&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=JimDev20&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
 </p>
 
 ---
