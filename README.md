@@ -11,12 +11,10 @@
 </p>
 
 ---
+🎓 3rd-year student exploring the full stack — from front-end design to back-end logic
+☁️ On a mission to become a Cloud Engineer
+🔭 Currently learning TypeScript, React, and AWS architecture
 
-## 🚀 About Me
-
-- 🎯 Currently focusing on building projects in **TypeScript & JavaScript**
-- 🌱 Always learning: **React, Node.js, AWS, and clean architecture**
-- 💬 Ask me about **TypeScript, JavaScript, HTML, CSS**
 
 ---
 
@@ -62,10 +60,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
