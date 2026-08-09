@@ -62,6 +62,14 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+</p>
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JimDev20/JimDev20/output/github-contribution-grid-snake-dark.svg" />
