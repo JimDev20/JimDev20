@@ -81,7 +81,13 @@
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio:** [https://my-portfolio-jimrie.vercel.app](https://my-portfolio-jimrie.vercel.app)
+<p align="center">
+  <a href="https://my-portfolio-jimrie.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&labelColor=1a1b27&color=70a5fd" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jimrie-parado-ba5399381/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&labelColor=1a1b27&color=70a5fd" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/jimrie.parado.3/"><img src="https://img.shields.io/badge/Facebook-1a1b27?style=for-the-badge&logo=facebook&labelColor=1a1b27&color=70a5fd" alt="Facebook" /></a>
+  <a href="https://x.com/JimParado43308"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&labelColor=1a1b27&color=70a5fd" alt="X" /></a>
+  <a href="https://www.instagram.com/jimrieparado/"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&labelColor=1a1b27&color=70a5fd" alt="Instagram" /></a>
+</p>
 
 ---
 
