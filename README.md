@@ -71,10 +71,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
