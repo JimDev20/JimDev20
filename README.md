@@ -1,8 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:38bdae&height=200&section=header" width="100%" alt="header" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Jimrie Parado</h1>
-<h3 align="center">A developer from the Philippines 🎯</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JimDev20&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=780&lines=Full-stack+developer+from+the+Philippines;Building+with+TypeScript+%26+JavaScript;Always+learning%2C+always+building" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -15,15 +20,12 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,html,css,react,nodejs,aws,git&perline=8" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -31,20 +33,60 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JimDev20&show_icons=true&theme=radical" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimDev20&layout=compact&theme=radical" alt="Top languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JimDev20&layout=compact&theme=tokyonight" alt="Top languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=radical" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JimDev20&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
+</p>
+
+---
+
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JimDev20&bg_color=1a1b27&color=70a5fd&line=38bdae&point=53c7f0&area_color=38bdae&area=true&hide_border=true" alt="Activity graph" />
+</p>
+
+---
+
+## 🧊 Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JimDev20/JimDev20/output-3d-contrib/night.svg" alt="3D contribution calendar" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JimDev20/JimDev20/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/JimDev20/JimDev20/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  </picture>
 </p>
 
 ---
 
 ## 📫 Connect with Me
 
-- 🌐 **Portfolio:** https://my-portfolio-jimrie.vercel.app
+- 🌐 **Portfolio:** [https://my-portfolio-jimrie.vercel.app](https://my-portfolio-jimrie.vercel.app)
+- 📧 **Email:** [youremail@example.com](mailto:youremail@example.com)
 
 ---
 
-<p align="center">Made by Jimrie Parado</p>
+<p align="center">Made with ❤️ by Jimrie Parado</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:38bdae&height=120&section=footer" width="100%" alt="footer" />
+</p>

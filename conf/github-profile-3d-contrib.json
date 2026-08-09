@@ -1,0 +1,19 @@
+[
+  {
+    "type": "normal",
+    "fileName": "night.svg",
+    "backgroundColor": "#1a1b27",
+    "foregroundColor": "#a9b1d6",
+    "strongColor": "#c0caf5",
+    "weakColor": "#3e68d7",
+    "radarColor": "#70a5fd",
+    "growingAnimation": true,
+    "contribColors": [
+      "#1a1b27",
+      "#283457",
+      "#3e68d7",
+      "#70a5fd",
+      "#a9b1d6"
+    ]
+  }
+]
