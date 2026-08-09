@@ -81,7 +81,6 @@
 
 ---
 
-<p align="center">Made by Jimrie Parado</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161e,100:38bdae&height=120&section=footer" width="100%" alt="footer" />
