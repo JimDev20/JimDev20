@@ -48,43 +48,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JimDev20&layout=compact&theme=tokyonight" alt="Top languages" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight" alt="GitHub streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=JimDev20&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub trophies" />
-</p>
-
----
-
-## 📊 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JimDev20&bg_color=1a1b27&color=70a5fd&line=38bdae&point=53c7f0&area_color=38bdae&area=true&hide_border=true" alt="Activity graph" />
-</p>
-
----
-
-## 🧊 Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JimDev20/JimDev20/output-3d-contrib/night.svg" alt="3D contribution calendar" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
