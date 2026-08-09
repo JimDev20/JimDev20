@@ -20,10 +20,16 @@
 
 ##  Tech Stack
 
+### Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python&perline=3" alt="Languages" />
+</p>
+
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwindcss,vite&perline=5" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwindcss,vite,html,css,bootstrap&perline=9" alt="Frontend" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/TanStack-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack" />
@@ -32,7 +38,7 @@
 ### Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,postgresql&perline=2" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase&perline=5" alt="Backend" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Drizzle%20ORM-1a1b27?style=for-the-badge&logo=drizzle&labelColor=1a1b27&color=70a5fd" alt="Drizzle ORM" />
@@ -41,7 +47,7 @@
 ### DevOps & Cloud
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker,aws&perline=5" alt="DevOps & Cloud" />
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,githubactions,docker,aws,ubuntu,linux&perline=7" alt="DevOps & Cloud" />
 </p>
 
 ### AI & Machine Learning
@@ -57,9 +63,18 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Developer Tools" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JetBrains-1a1b27?style=for-the-badge&logo=jetbrains&labelColor=1a1b27&color=70a5fd" alt="JetBrains" />
+  <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="NetBeans" />
+  <img src="https://img.shields.io/badge/Code%20Blocks-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="Code Blocks" />
+</p>
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
