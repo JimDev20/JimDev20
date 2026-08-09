@@ -28,9 +28,7 @@
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,tailwindcss,vite&perline=5" alt="Frontend" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/TanStack%20Start-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack Start" />
-  <img src="https://img.shields.io/badge/TanStack%20Router-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack Router" />
-  <img src="https://img.shields.io/badge/TanStack%20Query-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack Query" />
+  <img src="https://img.shields.io/badge/TanStack-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack" />
 </p>
 
 ### Backend
