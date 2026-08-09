@@ -40,7 +40,6 @@
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Drizzle%20ORM-1a1b27?style=for-the-badge&logo=drizzle&labelColor=1a1b27&color=70a5fd" alt="Drizzle ORM" />
-  <img src="https://img.shields.io/badge/REST%20API-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="REST API" />
 </p>
 
 ### DevOps & Cloud
