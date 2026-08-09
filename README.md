@@ -11,9 +11,9 @@
 </p>
 
 ---
---🎓 3rd-year student exploring the full stack — from front-end design to back-end logic
---☁️ On a mission to become a Cloud Engineer
---🔭 Currently learning TypeScript, React, and AWS architecture
+- 🎓 3rd-year student exploring the full stack — from front-end design to back-end logic
+- ☁️ On a mission to become a Cloud Engineer
+- 🔭 Currently learning TypeScript, React, and AWS architecture
 
 
 ---
