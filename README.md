@@ -65,7 +65,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JimDev20&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
@@ -82,11 +83,11 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://my-portfolio-jimrie.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a1b27?style=for-the-badge&logo=vercel&labelColor=1a1b27&color=70a5fd" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/jimrie-parado-ba5399381/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&labelColor=1a1b27&color=70a5fd" alt="LinkedIn" /></a>
-  <a href="https://www.facebook.com/jimrie.parado.3/"><img src="https://img.shields.io/badge/Facebook-1a1b27?style=for-the-badge&logo=facebook&labelColor=1a1b27&color=70a5fd" alt="Facebook" /></a>
-  <a href="https://x.com/JimParado43308"><img src="https://img.shields.io/badge/X-1a1b27?style=for-the-badge&logo=x&labelColor=1a1b27&color=70a5fd" alt="X" /></a>
-  <a href="https://www.instagram.com/jimrieparado/"><img src="https://img.shields.io/badge/Instagram-1a1b27?style=for-the-badge&logo=instagram&labelColor=1a1b27&color=70a5fd" alt="Instagram" /></a>
+  <a href="https://my-portfolio-jimrie.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/jimrie-parado-ba5399381/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.facebook.com/jimrie.parado.3/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://x.com/JimParado43308"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.instagram.com/jimrieparado/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 ---
