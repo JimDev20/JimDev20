@@ -91,7 +91,7 @@
   <a href="https://my-portfolio-jimrie.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000.svg?logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/jimrie-parado-ba5399381/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/jimrie.parado.3/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://x.com/JimParado43308"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/JimParado43308"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white" alt="" /></a>
   <a href="https://www.instagram.com/jimrieparado/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
