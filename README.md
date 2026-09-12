@@ -63,11 +63,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Developer Tools" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/JetBrains-1a1b27?style=for-the-badge&logo=jetbrains&labelColor=1a1b27&color=70a5fd" alt="JetBrains" />
-  <img src="https://img.shields.io/badge/NetBeans-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="NetBeans" />
-  <img src="https://img.shields.io/badge/Code%20Blocks-1a1b27?style=for-the-badge&labelColor=1a1b27&color=70a5fd" alt="Code Blocks" />
-</p>
+
 
 ---
 
