@@ -31,17 +31,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=typescript,javascript,react,nextjs,tailwindcss,vite,html,css,bootstrap&perline=9" alt="Frontend" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/TanStack-1a1b27?style=for-the-badge&logo=tanstack&labelColor=1a1b27&color=70a5fd" alt="TanStack" />
-</p>
 
 ### Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase&perline=5" alt="Backend" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Drizzle%20ORM-1a1b27?style=for-the-badge&logo=drizzle&labelColor=1a1b27&color=70a5fd" alt="Drizzle ORM" />
 </p>
 
 ### DevOps & Cloud
