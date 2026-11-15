@@ -58,12 +58,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=4" alt="Developer Tools" />
 </p>
 
-
----
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JimDev20&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
 ---
 
 <p align="center">
